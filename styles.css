@@ -80,8 +80,9 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
 footer {
-  margin-bottom:30px;
+  padding-bottom:30px;
 }
 
 /* javaScript Handled Class  */
