@@ -52,6 +52,6 @@ console.log(classname);
 document.querySelector(classname).classList.add("animation");
  
  
-setTimeout(function(){document.querySelector(classname).classList.remove("animation");},1000);
+setTimeout(function(){document.querySelector(classname).classList.remove("animation");},500);
 
 }
