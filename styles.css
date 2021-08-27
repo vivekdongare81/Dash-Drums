@@ -58,6 +58,10 @@ footer {
   color: red;
 }
 
+.info {
+  color:white;
+}
+
 .drum {
   outline: none;
   border: 10px solid #404b69;
