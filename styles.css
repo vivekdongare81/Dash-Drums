@@ -13,6 +13,7 @@ h1 {
 footer {
   color: #dbedf3;
   font-family: sans-serif;
+   padding-bottom:30px;
 }
 
 /* Adding Background To Drum Boxes */
@@ -79,10 +80,6 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
-}
-
-footer p{
-  padding-bottom:30px;
 }
 
 /* javaScript Handled Class  */
